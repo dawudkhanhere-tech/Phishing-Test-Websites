@@ -1,0 +1,85 @@
+HTTrack3.50-4 launched on Thu, 01 Oct 2026 18:02:14 at https://www.instagram.com/accounts/login/?hl=en
+(winhttrack https://www.instagram.com/accounts/login/?hl=en -O "/sdcard/Download/Web" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:02:15	Warning: 	Over-long header dropped for https://www.instagram.com/robots.txt
+18:02:15	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=en
+18:02:17	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/theaustralian.com.au
+18:02:17	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/
+18:02:20	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=fr
+18:02:20	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=it
+18:02:21	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=de
+18:02:21	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=es
+18:02:31	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/news.com.au
+18:02:31	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=zh-cn
+18:02:32	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=zh-tw
+18:02:32	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ja
+18:02:32	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/kollosche.com.au
+18:02:33	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ko
+18:02:33	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=pt
+18:02:33	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=pt-br
+18:02:33	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/awstrack.me
+18:02:36	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=af
+18:02:37	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=cs
+18:02:38	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/apple.com.au
+18:02:38	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=da
+18:02:38	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=el
+18:02:39	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/XSbPW
+18:02:40	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=fi
+18:02:40	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=hr
+18:02:40	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=hu
+18:02:41	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/'https://static.cdninstagram.com/rsrc.php/yO/r/Ny6hrBVLYjl.webp'
+18:02:44	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ms
+18:02:44	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=id
+18:02:45	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=nb
+18:02:45	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=nl
+18:03:00	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=pl
+18:03:00	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ru
+18:03:01	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=sk
+18:03:01	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=sv
+18:03:15	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=th
+18:03:17	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=tr
+18:03:17	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=hi
+18:03:17	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=tl
+18:03:32	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=bn
+18:03:33	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=gu
+18:03:34	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=kn
+18:03:34	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ml
+18:03:49	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=mr
+18:03:51	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=pa
+18:03:51	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ta
+18:03:51	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=te
+18:04:06	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ne
+18:04:06	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=si
+18:04:07	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=vi
+18:04:07	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=bg
+18:04:22	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=fr-ca
+18:04:23	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ro
+18:04:23	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=sr
+18:04:24	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=uk
+18:04:39	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=zh-hk
+18:04:40	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=es-la
+18:04:41	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=he
+18:04:41	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=fa
+18:04:55	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ar
+18:04:56	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ur
+18:04:57	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=en-gb
+18:04:58	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=sw-ke
+18:05:13	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=ha-ng
+18:05:13	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=am-et
+18:05:13	Warning: 	Over-long header dropped for https://www.instagram.com/accounts/login/?hl=om-et
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/theaustralian.com.au (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/news.com.au (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/kollosche.com.au (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/awstrack.me (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/apple.com.au (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/XSbPW (from https://www.instagram.com/accounts/login/?hl=en)
+18:05:14	Error: 	"Not Found" (404) at link https://www.instagram.com/accounts/login/'https://static.cdninstagram.com/rsrc.php/yO/r/Ny6hrBVLYjl.webp' (from https://www.instagram.com/accounts/login/?hl=en)
+
+HTTrack Website Copier/3.50-4 mirror complete in 3 minutes 0 seconds : 66 links scanned, 58 files written (29345632 bytes overall) [8551338 bytes received at 47507 bytes/sec], 33801449 bytes transferred using HTTP compression in 66 files, ratio 23%, 1.8 requests per connection
+(7 errors, 66 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
